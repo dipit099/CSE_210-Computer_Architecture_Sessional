@@ -1,0 +1,16 @@
+j 0000
+ori 0001
+sw 0010
+lw 0011
+and 0100
+srl 0101
+or 0110
+add 0111
+andi 1000
+beq 1001
+sll 1010
+sub 1011
+addi 1100
+nor 1101
+bneq 1110
+subi 1111
